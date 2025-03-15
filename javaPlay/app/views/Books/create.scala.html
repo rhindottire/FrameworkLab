@@ -1,26 +1,17 @@
 @(bookForm: Form[models.Book])(implicit request: Http.Request, messages: play.api.i18n.Messages)
 @import helper._
 
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Create Book</title>
-    </head>
-    <body>
-        <h1>Create Book</h1>
-        @helper.form(action = routes.BooksController.saveBook()) {
-            @helper.inputText(bookForm("id"))
-            @helper.inputText(bookForm("title"))
-            @helper.inputText(bookForm("price"))
-            @helper.inputText(bookForm("author"))
+@layout("Create Book") {
+    <h1>Create Book</h1>
+    @helper.form(action = helper.CSRF(routes.BooksController.saveBook())) {
+        @helper.inputText(bookForm("id"))
+        @helper.inputText(bookForm("title"))
+        @helper.inputText(bookForm("price"))
+        @helper.inputText(bookForm("author"))
 
-            @if(bookForm.hasErrors) {
-                <p style="color:red">Form error: @bookForm.errors()</p>
-            }
-
-            <input type="submit" value="Create Book" />
+        @if(bookForm.hasErrors) {
+            <p style="color:red">Form error: @bookForm.errors()</p>
         }
-    </body>
-</html>
+        <input type="submit" value="Create Book" />
+    }
+}

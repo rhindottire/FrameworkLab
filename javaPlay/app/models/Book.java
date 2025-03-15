@@ -45,15 +45,6 @@ public class Book {
         return books;
     }
 
-    public static Book findBookById(Integer id) {
-        for (Book book : books) {
-            if (book.id.equals(id)) {
-                return book;
-            }
-        }
-        return null;
-    }
-
     public static Book findById(Integer id) {
         return books.stream()
                 .filter(book -> book.getId().equals(id))
