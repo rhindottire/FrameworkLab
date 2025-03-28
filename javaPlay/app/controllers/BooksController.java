@@ -1,7 +1,9 @@
 package controllers;
 
 import models.Book;
+import play.libs.Json;
 import services.BooksService;
+import repositories.BooksRepository;
 
 import play.mvc.Http;
 import play.mvc.Result;
@@ -18,17 +20,31 @@ import views.html.Books.*;
 import javax.inject.Inject;
 import java.util.Set;
 
+import java.util.concurrent.CompletableFuture;
+import java.util.concurrent.CompletionStage;
+
 public class BooksController extends Controller {
 
     private final BooksService booksService;
+    private final BooksRepository booksRepository;
     private final FormFactory formFactory;
     private final MessagesApi messagesApi;
 
     @Inject
-    public BooksController(BooksService booksService, FormFactory formFactory, MessagesApi messagesApi) {
+    public BooksController(
+            BooksService booksService,
+            BooksRepository booksRepository,
+            FormFactory formFactory,
+            MessagesApi messagesApi
+    ) {
         this.booksService = booksService;
+        this.booksRepository = booksRepository;
         this.formFactory = formFactory;
         this.messagesApi = messagesApi;
+    }
+
+    public CompletionStage<Result> getBooks() {
+        return booksRepository.getBooks().thenApply(books -> ok(Json.toJson(books)));
     }
 
     public Result index() {
@@ -46,7 +62,6 @@ public class BooksController extends Controller {
             return internalServerError(e.getMessage());
         }
     }
-
     public Result saveBook(Http.Request request) {
         try {
             Form<Book> bookForm = formFactory.form(Book.class).bindFromRequest(request);

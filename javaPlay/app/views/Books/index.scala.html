@@ -7,6 +7,6 @@
         <h1>@book.title</h1>
         <p>Price: @book.price</p>
         <p>Author: @book.author</p>
-        <a href="@routes.BooksController.showBook(book.id)">Show details</a>
+        <a href="@routes.BooksController.showBook(book.id.toInt)">Show details</a>
     }
 }

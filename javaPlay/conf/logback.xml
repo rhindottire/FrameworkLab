@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-
-<!-- https://www.playframework.com/documentation/latest/SettingsLogger -->
+<!--
+   Copyright (C) from 2022 The Play Framework Contributors <https://github.com/playframework>, 2011-2021 Lightbend Inc. <https://www.lightbend.com>
+-->
 
 <!DOCTYPE configuration>
 
@@ -13,21 +14,13 @@
   <appender name="FILE" class="FileAppender">
     <file>${application.home:-.}/logs/application.log</file>
     <encoder class="PatternLayoutEncoder">
-      <charset>UTF-8</charset>
-      <pattern>%d{yyyy-MM-dd HH:mm:ss} %highlight(%-5level) %cyan(%logger{36}) %magenta(%X{pekkoSource}) %msg%n</pattern>
+      <pattern>%date [%level] from %logger in %thread - %message%n%xException</pattern>
     </encoder>
   </appender>
 
   <appender name="STDOUT" class="ConsoleAppender">
-    <!--
-         On Windows, enabling Jansi is recommended to benefit from color code interpretation on DOS command prompts,
-         which otherwise risk being sent ANSI escape sequences that they cannot interpret.
-         See https://logback.qos.ch/manual/layouts.html#coloring
-    -->
-    <!-- <withJansi>true</withJansi> -->
     <encoder class="PatternLayoutEncoder">
-      <charset>UTF-8</charset>
-      <pattern>%d{yyyy-MM-dd HH:mm:ss} %highlight(%-5level) %cyan(%logger{36}) %magenta(%X{pekkoSource}) %msg%n</pattern>
+      <pattern>%highlight(%-5level) %logger{15} - %message%n%xException{10}</pattern>
     </encoder>
   </appender>
 
@@ -40,7 +33,9 @@
   </appender>
 
   <logger name="play" level="INFO"/>
-  <logger name="application" level="DEBUG"/>
+  <logger name="org.jdbcdslog.ConnectionLogger" level="OFF"/> <!-- Won' log connections -->
+  <logger name="org.jdbcdslog.StatementLogger" level="INFO"/> <!-- Will log all statements -->
+  <logger name="org.jdbcdslog.ResultSetLogger" level="OFF"/>  <!-- Won' log result sets -->
 
   <root level="WARN">
     <appender-ref ref="ASYNCFILE"/>

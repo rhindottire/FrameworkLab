@@ -33,7 +33,7 @@ public class Book {
     public String getAuthor() { return author; }
     public void setAuthor(String author) { this.author = author; }
 
-    private static Set<Book> books;
+    private static final Set<Book> books;
     static {
         books = new HashSet<Book>();
         books.add(new Book(1, "Python", 100, "Edho"));
