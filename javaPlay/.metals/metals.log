@@ -1,0 +1,6 @@
+2025.03.31 23:59:55 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\lsp.trace.json
+2025.04.01 00:00:17 INFO  logging to files D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\metals.log
+2025.04.01 00:00:17 INFO  Started: Metals version 1.5.2 in folders 'D:\GitHub\lecture-projects\FrameworkLab\javaPlay' for client Visual Studio Code 1.98.2.
+2025.04.01 00:02:06 INFO  Shutting down server
+2025.04.01 00:02:06 INFO  shutting down Metals
+2025.04.01 00:02:06 INFO  Exiting server

@@ -1,0 +1,9 @@
+@(contact : Contact)
+
+@layout(contact.getName) {
+    <h1>@contact.getName</h1>
+    <p>Email : @contact.getEmail</p>
+    <p>Phone : @contact.getPhone</p>
+    <a href="@routes.ContactsController.updateContact(contact.getId.toInt)">Edit</a>
+    <a href="@routes.ContactsController.deleteContact(contact.getId.toInt)">Delete</a>
+}

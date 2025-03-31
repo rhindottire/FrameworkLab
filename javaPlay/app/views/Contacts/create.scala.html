@@ -1,0 +1,11 @@
+@(contactForm: Form[models.Contact])(implicit request: Http.Request, messages: play.i18n.Messages)
+
+@layout("Create Contact") {
+    <h1>Create Contact</h1>
+    @helper.form(action = helper.CSRF(routes.ContactsController.saveContact())) {
+        @helper.inputText(contactForm("name"))
+        @helper.inputText(contactForm("email"))
+        @helper.inputText(contactForm("phone"))
+        <input type="submit" value="Create Contact" />
+    }
+}

@@ -1,0 +1,12 @@
+@(contacts : List[models.Contact])
+
+@layout("All Contacts") {
+    <h1>All Contacts</h1>
+    <a href="@routes.ContactsController.createContact()">Create Contact</a>
+    @for(contact <- contacts) {
+        <h1>@contact.getName</h1>
+        <p>Email: @contact.getEmail</p>
+        <p>Phone Number: @contact.getPhone</p>
+        <a href="@routes.ContactsController.showContact(contact.getId.toInt)">Show details</a>
+    }
+}

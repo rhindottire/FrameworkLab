@@ -23,5 +23,13 @@ POST    /books/create               controllers.BooksController.saveBook(request
 
 GET     /allBooks                   controllers.BooksController.getBooks
 
+GET     /contacts                   controllers.ContactsController.index
+GET     /contacts/create            controllers.ContactsController.createContact(request: play.mvc.Http.Request)
+POST    /contacts/create            controllers.ContactsController.saveContact(request: play.mvc.Http.Request)
+GET     /contacts/read/:id          controllers.ContactsController.showContact(id: Integer)
+GET     /contacts/update/:id        controllers.ContactsController.editContact(id: Integer, request: play.mvc.Http.Request)
+POST    /contacts/update/:id        controllers.ContactsController.updateContact(id: Integer, request: play.mvc.Http.Request)
+GET     /contacts/delete/:id        controllers.ContactsController.deleteContact(id: Integer)
+
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
