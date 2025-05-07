@@ -4,3 +4,854 @@
 2025.04.01 00:02:06 INFO  Shutting down server
 2025.04.01 00:02:06 INFO  shutting down Metals
 2025.04.01 00:02:06 INFO  Exiting server
+2025.04.01 00:05:51 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\lsp.trace.json
+2025.04.01 00:06:03 INFO  logging to files D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\metals.log
+2025.04.01 00:06:03 INFO  Started: Metals version 1.5.2 in folders 'D:\GitHub\lecture-projects\FrameworkLab\javaPlay' for client Visual Studio Code 1.98.2.
+2025.04.01 00:07:16 INFO  Shutting down server
+2025.04.01 00:07:16 INFO  shutting down Metals
+2025.04.01 00:07:16 INFO  Exiting server
+2025.04.01 20:45:05 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\lsp.trace.json
+2025.04.01 20:45:16 INFO  logging to files D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\metals.log
+2025.04.01 20:45:16 INFO  Started: Metals version 1.5.2 in folders 'D:\GitHub\lecture-projects\FrameworkLab\javaPlay' for client Visual Studio Code 1.98.2.
+Apr 01, 2025 8:45:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.04.01 20:45:55 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.01 20:46:14 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 01, 2025 8:46:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2025.04.01 20:46:14 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.01 20:46:14 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.01 20:46:14 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 01, 2025 8:46:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Apr 01, 2025 8:46:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Apr 01, 2025 8:46:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Apr 01, 2025 8:46:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2025.04.01 20:46:14 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 01, 2025 8:46:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Apr 01, 2025 8:46:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2025.04.01 20:46:14 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.01 20:46:15 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.01 20:46:14 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 01, 2025 8:46:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+2025.04.01 20:46:17 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\BooksRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.01 20:46:17 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\BooksRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 01, 2025 8:46:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-01\r_compiler-error_20-46-21-939.md
+Apr 01, 2025 8:46:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-01\r_compiler-error_20-46-22-036.md
+2025.04.01 20:46:22 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\BooksRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.01 20:46:22 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\BooksRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.01 20:46:34 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.01 20:46:34 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.01 20:46:34 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\BooksRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.01 20:46:38 INFO  Shutting down server
+2025.04.01 20:46:38 INFO  shutting down Metals
+2025.04.01 20:46:38 INFO  Exiting server
+2025.04.01 20:46:38 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.04.01 20:47:22 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\lsp.trace.json
+2025.04.01 20:47:32 INFO  logging to files D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\metals.log
+2025.04.01 20:47:32 INFO  Started: Metals version 1.5.2 in folders 'D:\GitHub\lecture-projects\FrameworkLab\javaPlay' for client Visual Studio Code 1.98.2.
+2025.04.07 19:41:19 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\lsp.trace.json
+2025.04.07 19:41:37 INFO  logging to files D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\metals.log
+2025.04.07 19:41:37 INFO  Started: Metals version 1.5.2 in folders 'D:\GitHub\lecture-projects\FrameworkLab\javaPlay' for client Visual Studio Code 1.99.0.
+2025.04.07 19:53:25 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:39 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:40 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:40 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 07, 2025 7:53:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Apr 07, 2025 7:53:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Apr 07, 2025 7:53:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.04.07 19:53:40 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:41 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 07, 2025 7:53:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Apr 07, 2025 7:53:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2025.04.07 19:53:41 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:41 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt
+2025.04.07 19:53:41 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:46 WARN  Could not find semantic tokens for: file:///D:/GitHub/lecture-projects/FrameworkLab/javaPlay/project/plugins.sbt
+2025.04.07 19:53:46 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:46 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:46 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:46 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:46 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 07, 2025 7:53:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Apr 07, 2025 7:53:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Apr 07, 2025 7:53:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Apr 07, 2025 7:53:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2025.04.07 19:53:46 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:46 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:46 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:53:48 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 07, 2025 7:53:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-07\r_compiler-error_19-53-52-074.md
+Apr 07, 2025 7:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Apr 07, 2025 7:53:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30
+2025.04.07 19:54:07 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:54:07 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:54:09 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:54:09 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 07, 2025 7:54:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+2025.04.07 19:54:09 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 07, 2025 7:54:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-07\r_compiler-error_19-54-10-230.md
+Apr 07, 2025 7:54:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42
+2025.04.07 19:54:10 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 07, 2025 7:54:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-07\r_compiler-error_19-54-11-704.md
+Apr 07, 2025 7:54:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-07\r_compiler-error_19-54-12-003.md
+2025.04.07 19:54:28 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:54:34 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:54:57 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 19:58:15 INFO  Shutting down server
+2025.04.07 19:58:15 INFO  shutting down Metals
+2025.04.07 19:58:15 INFO  Exiting server
+2025.04.12 20:00:05 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\lsp.trace.json
+2025.04.20 00:12:44 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\lsp.trace.json
+2025.04.20 00:12:58 INFO  logging to files D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\metals.log
+2025.04.20 00:12:58 INFO  Started: Metals version 1.5.2 in folders 'D:\GitHub\lecture-projects\FrameworkLab\javaPlay' for client Visual Studio Code 1.99.3.
+2025.04.20 00:14:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:15:12 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:15:12 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:15:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Apr 20, 2025 12:15:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Apr 20, 2025 12:15:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2025.04.20 00:15:12 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\BooksController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:15:13 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\BooksController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:15:13 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\BooksController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:15:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2025.04.20 00:15:13 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\BooksController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:15:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Apr 20, 2025 12:15:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2025.04.20 00:15:13 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:15:20 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-15-20-838.md
+Apr 20, 2025 12:15:21 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-15-21-027.md
+2025.04.20 00:15:25 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\BooksController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:17:53 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:17:53 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:17:54 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:17:54 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:17:54 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:17:55 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:17:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-17-55-946.md
+Apr 20, 2025 12:17:56 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-17-56-333.md
+Apr 20, 2025 12:17:56 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-17-56-396.md
+2025.04.20 00:17:55 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:17:57 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:17:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-17-58-175.md
+2025.04.20 00:18:01 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:18:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-18-01-766.md
+2025.04.20 00:18:06 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:18:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-18-07-223.md
+2025.04.20 00:18:08 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:18:08 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:18:09 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:18:08 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:18:10 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:18:10 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:18:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-18-10-596.md
+Apr 20, 2025 12:18:12 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-18-12-052.md
+2025.04.20 00:18:12 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:19:44 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:19:44 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:19:46 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:19:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 51
+2025.04.20 00:19:47 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:19:47 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:19:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-19-48-527.md
+2025.04.20 00:19:49 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:19:49 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:19:50 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:19:50 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-19-50-467.md
+2025.04.20 00:19:50 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:19:51 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:19:51 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:19:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-19-51-904.md
+2025.04.20 00:19:51 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:21 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:21 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:21 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:20:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-22-358.md
+2025.04.20 00:20:21 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:22 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:20:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-23-050.md
+2025.04.20 00:20:41 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:41 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:20:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-42-234.md
+Apr 20, 2025 12:20:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-42-400.md
+2025.04.20 00:20:43 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:43 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:20:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-43-544.md
+2025.04.20 00:20:44 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:44 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:44 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:20:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-45-711.md
+2025.04.20 00:20:46 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:46 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:20:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-46-701.md
+Apr 20, 2025 12:20:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-46-948.md
+2025.04.20 00:20:47 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:47 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:20:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-48-386.md
+2025.04.20 00:20:47 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:20:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-48-742.md
+2025.04.20 00:20:47 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:20:49 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-49-249.md
+2025.04.20 00:20:49 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:49 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:52 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:20:56 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-56-843.md
+2025.04.20 00:20:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:20:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:20:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-58-368.md
+2025.04.20 00:20:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:20:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-20-58-696.md
+2025.04.20 00:21:16 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-16-655.md
+2025.04.20 00:21:18 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:18 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:18 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:18 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-18-653.md
+2025.04.20 00:21:18 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:19 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:19 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-19-617.md
+2025.04.20 00:21:19 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:19 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-19-950.md
+2025.04.20 00:21:22 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-22-982.md
+2025.04.20 00:21:24 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:38 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:38 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:38 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:39 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-39-388.md
+2025.04.20 00:21:39 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:39 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:41 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:41 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-41-501.md
+2025.04.20 00:21:42 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-42-751.md
+2025.04.20 00:21:44 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-44-922.md
+2025.04.20 00:21:50 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:50 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\BooksRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:50 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\BooksRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:51 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\BooksRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-51-309.md
+2025.04.20 00:21:51 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\BooksRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:51 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\BooksRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:53 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\BooksRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:53 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:54 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:53 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:54 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-54-719.md
+2025.04.20 00:21:54 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:54 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-55-412.md
+2025.04.20 00:21:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-57-250.md
+2025.04.20 00:21:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-59-122.md
+2025.04.20 00:21:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:21:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:21:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-21-59-641.md
+2025.04.20 00:21:59 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:01 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:22:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-22-02-132.md
+2025.04.20 00:22:01 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:22:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-22-02-393.md
+2025.04.20 00:22:01 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:01 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:22:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-22-02-785.md
+2025.04.20 00:22:19 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:19 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:20 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:20 WARN  Could not find semantic tokens for: file:///D:/GitHub/lecture-projects/FrameworkLab/javaPlay/project/plugins.sbt
+2025.04.20 00:22:26 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:26 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:26 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:27 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:29 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:29 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:29 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:31 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:31 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:31 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:31 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:32 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:32 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:33 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:33 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:36 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:36 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:38 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:38 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:38 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:38 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:22:44 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:26:31 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:26:32 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:26:31 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:26:34 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:26:35 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:26:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-26-36-041.md
+2025.04.20 00:26:36 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:26:38 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:26:39 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:26:39 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-26-39-797.md
+2025.04.20 00:26:39 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:26:42 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:26:42 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:26:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-26-42-406.md
+Apr 20, 2025 12:26:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-26-42-652.md
+2025.04.20 00:26:43 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:26:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-26-44-019.md
+2025.04.20 00:26:43 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:26:44 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:26:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-26-45-292.md
+2025.04.20 00:26:44 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:26:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-26-45-838.md
+2025.04.20 00:28:06 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:28:06 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:28:06 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 12:28:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_00-28-07-139.md
+2025.04.20 00:28:06 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:28:07 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 00:28:07 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:09 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:09 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:10 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:09 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:21 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:23 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:23 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:23 WARN  Could not find semantic tokens for: file:///D:/GitHub/lecture-projects/FrameworkLab/javaPlay/project/plugins.sbt
+2025.04.20 01:14:25 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:25 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:25 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:27 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:27 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:27 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:27 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:27 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:28 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:28 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 1:14:29 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc:  (full report at: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_empty-definition_01-14-29-226.md)
+2025.04.20 01:14:28 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:29 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:29 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:42 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:53 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:14:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:15:00 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:15:01 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:18:04 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:18:04 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:18:04 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:18:04 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 20, 2025 1:18:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_01-18-05-788.md
+Apr 20, 2025 1:18:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-20\r_compiler-error_01-18-05-825.md
+2025.04.20 01:18:10 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:18:10 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:18:12 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:18:17 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.20 01:38:06 INFO  Shutting down server
+2025.04.20 01:38:06 INFO  shutting down Metals
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@6a2bcfcb[Shutting down, pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 4595]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2082)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:841)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1377)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025.04.21 10:48:48 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\lsp.trace.json
+2025.04.21 10:49:06 INFO  logging to files D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\metals.log
+2025.04.21 10:49:06 INFO  Started: Metals version 1.5.2 in folders 'D:\GitHub\lecture-projects\FrameworkLab\javaPlay' for client Visual Studio Code 1.99.3.
+2025.04.21 13:05:40 INFO  Shutting down server
+2025.04.21 13:05:40 INFO  shutting down Metals
+2025.04.21 13:05:40 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2025.04.21 13:05:40 INFO  Exiting server
+2025.04.21 15:36:30 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\lsp.trace.json
+2025.04.21 15:36:51 INFO  logging to files D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\metals.log
+2025.04.21 15:36:51 INFO  Started: Metals version 1.5.2 in folders 'D:\GitHub\lecture-projects\FrameworkLab\javaPlay' for client Visual Studio Code 1.99.3.
+2025.04.21 15:36:51 INFO  time: initialize in 0.47s
+2025.04.21 15:38:14 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:38:14 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java
+2025.04.21 15:38:27 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java
+2025.04.21 15:38:28 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 3:38:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.04.21 15:38:28 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:38:28 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:38:39 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:38:39 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 3:38:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_15-38-48-995.md
+2025.04.21 15:38:50 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 3:38:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_15-38-52-491.md
+2025.04.21 15:38:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:38:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:38:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:38:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 3:38:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Apr 21, 2025 3:38:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+Apr 21, 2025 3:38:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2025.04.21 15:38:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 3:39:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_15-39-02-356.md
+2025.04.21 15:39:42 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:39:43 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java
+2025.04.21 15:41:52 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:53:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:53:58 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java
+2025.04.21 15:53:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 3:53:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+2025.04.21 15:53:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 3:53:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_15-53-59-481.md
+2025.04.21 15:54:00 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:02 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:02 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:03 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 3:54:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_15-54-04-223.md
+2025.04.21 15:54:13 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt
+2025.04.21 15:54:13 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:13 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:14 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:13 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:13 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:13 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:15 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:16 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:16 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:49 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:54 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 15:54:55 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:18:09 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java
+2025.04.21 16:18:09 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:18:11 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:18:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-18-13-973.md
+2025.04.21 16:18:18 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:18:18 INFO  time: code lens generation in 7.47s
+2025.04.21 16:18:18 INFO  time: code lens generation in 7.43s
+2025.04.21 16:18:19 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:18:20 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:18:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-18-21-589.md
+2025.04.21 16:18:39 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:18:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-18-40-209.md
+2025.04.21 16:19:36 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:19:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-19-38-016.md
+2025.04.21 16:19:51 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:19:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-19-52-017.md
+2025.04.21 16:19:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:19:58 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt
+2025.04.21 16:19:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:19:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:19:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:20:00 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:20:00 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:20:00 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:20:13 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:21:36 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:21:36 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt
+2025.04.21 16:21:36 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:21:36 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:21:40 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:21:41 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java
+2025.04.21 16:21:40 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:21:41 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:21:42 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-21-41-989.md
+2025.04.21 16:21:42 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:21:42 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:21:43 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-21-43-377.md
+2025.04.21 16:21:59 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:21:59 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:21:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-21-59-769.md
+2025.04.21 16:21:59 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:22:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-22-00-380.md
+2025.04.21 16:22:00 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:22:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-22-00-714.md
+2025.04.21 16:22:00 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:22:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-22-01-042.md
+2025.04.21 16:22:01 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:22:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-22-01-752.md
+2025.04.21 16:22:15 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:22:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-22-16-060.md
+2025.04.21 16:22:26 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Book.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:22:26 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:22:26 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java
+2025.04.21 16:22:26 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:22:26 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:22:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-22-27-089.md
+Apr 21, 2025 4:22:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-22-27-254.md
+2025.04.21 16:22:28 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:22:28 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-22-28-904.md
+2025.04.21 16:24:02 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:24:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-24-02-839.md
+2025.04.21 16:24:21 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\models\Contact.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:21 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\HomeController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:21 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\HomeController.java
+2025.04.21 16:24:21 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\HomeController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:21 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\HomeController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:24:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-24-23-071.md
+Apr 21, 2025 4:24:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-24-23-072.md
+2025.04.21 16:24:23 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\HomeController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:23 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\HomeController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:24 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\HomeController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:24 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java
+2025.04.21 16:24:24 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:25 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:24 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:28 INFO  time: code lens generation in 2.1s
+Apr 21, 2025 4:24:28 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-24-28-061.md
+2025.04.21 16:24:30 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:32 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:32 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:24:33 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-24-33-101.md
+2025.04.21 16:24:45 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:24:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-24-45-418.md
+2025.04.21 16:24:51 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\controllers\ContactsController.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:51 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java
+2025.04.21 16:24:51 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:51 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:53 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:53 INFO  time: code lens generation in 1.07s
+Apr 21, 2025 4:24:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-24-53-366.md
+2025.04.21 16:24:54 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:55 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:24:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-24-55-792.md
+2025.04.21 16:24:57 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:24:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-24-57-449.md
+2025.04.21 16:24:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:24:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-24-59-080.md
+2025.04.21 16:24:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:24:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-24-59-599.md
+2025.04.21 16:24:59 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:24:59 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:25:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-25-00-289.md
+2025.04.21 16:24:59 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:25:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-25-00-731.md
+Apr 21, 2025 4:25:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-25-01-149.md
+2025.04.21 16:25:02 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:25:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-25-02-584.md
+2025.04.21 16:25:05 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:05 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java
+2025.04.21 16:25:05 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:07 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:07 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:07 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:25:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-25-07-772.md
+2025.04.21 16:25:09 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:11 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:12 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:25:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-25-12-283.md
+2025.04.21 16:25:12 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:25:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-25-12-760.md
+2025.04.21 16:25:15 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:15 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java
+2025.04.21 16:25:15 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:15 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:16 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\DatabaseExecutionContext.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:18 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:18 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java
+2025.04.21 16:25:18 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:18 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:18 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:25:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-25-19-172.md
+2025.04.21 16:25:19 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:19 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:25:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-25-20-374.md
+2025.04.21 16:25:19 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:20 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:25:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-25-20-961.md
+2025.04.21 16:25:20 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:20 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:25:20 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:25:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-25-22-085.md
+Apr 21, 2025 4:25:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-25-22-180.md
+2025.04.21 16:25:22 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:26:11 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:26:11 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java
+2025.04.21 16:26:11 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:26:11 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:26:11 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:26:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-26-12-320.md
+Apr 21, 2025 4:26:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-26-12-590.md
+2025.04.21 16:26:12 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:26:12 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:26:14 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:26:14 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:26:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-26-15-081.md
+2025.04.21 16:26:19 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:26:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-26-19-749.md
+2025.04.21 16:26:23 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:26:23 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:26:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 277
+Apr 21, 2025 4:26:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-26-23-899.md
+2025.04.21 16:26:38 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:26:38 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:26:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-26-39-094.md
+2025.04.21 16:26:38 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:26:40 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:26:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-26-40-227.md
+2025.04.21 16:26:40 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:26:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-26-40-934.md
+2025.04.21 16:26:43 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:26:43 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-26-43-746.md
+2025.04.21 16:28:06 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:28:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-28-07-087.md
+2025.04.21 16:28:07 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:28:08 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Exception in thread "pool-82-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025.04.21 16:28:08 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:28:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-28-10-398.md
+2025.04.21 16:28:12 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:28:12 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:28:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-28-12-932.md
+2025.04.21 16:28:13 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:28:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-28-14-073.md
+2025.04.21 16:28:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\services\ContactsService.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:28:56 WARN  no build target for: D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java
+2025.04.21 16:28:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:28:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:28:56 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:28:57 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-28-57-492.md
+2025.04.21 16:28:57 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:28:57 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:28:59 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.21 16:29:00 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:29:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-29-00-829.md
+2025.04.21 16:30:40 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:30:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-30-41-029.md
+2025.04.21 16:30:43 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:30:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-30-44-089.md
+2025.04.21 16:31:00 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:31:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-31-00-631.md
+2025.04.21 16:31:55 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:31:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-31-56-237.md
+2025.04.21 16:31:58 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:31:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-31-59-738.md
+2025.04.21 16:32:04 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:32:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-32-04-412.md
+2025.04.21 16:32:09 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 4:32:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_16-32-09-475.md
+2025.04.21 18:12:06 INFO  no build target found for D:\GitHub\lecture-projects\FrameworkLab\javaPlay\app\repositories\ContactsRepository.java. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 21, 2025 6:12:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\GitHub\lecture-projects\FrameworkLab\javaPlay\.metals\.reports\metals-full\2025-04-21\r_compiler-error_18-12-07-453.md
+2025.04.21 18:12:09 INFO  Shutting down server
+2025.04.21 18:12:09 INFO  shutting down Metals
+2025.04.21 18:12:09 INFO  Exiting server
